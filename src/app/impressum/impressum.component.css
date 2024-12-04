@@ -1,0 +1,22 @@
+.impressum {
+    margin: revert;
+    text-align: justify;
+}
+
+.impressum__item {
+    margin: revert;
+}
+
+.impressum__paragraph {
+    text-align: justify;
+}
+
+.impressum__heading--primary {
+    margin: revert;
+    text-align: left;
+}
+
+.impressum__heading--secondary {
+    margin: revert;
+    text-align: left;
+}
